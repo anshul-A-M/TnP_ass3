@@ -1,0 +1,20 @@
+DSA|What is the time complexity of binary search?|O(n)|O(log n)|O(n log n)|O(1)|b
+DSA|Which data structure uses FIFO method?|Stack|Queue|Tree|Graph|b
+DSA|Which traversal of a binary tree is Left-Root-Right?|Preorder|Postorder|Inorder|Reverseorder|c
+DSA|Which data structure uses LIFO method?|Queue|Stack|Array|Heap|b
+DSA|Which algorithm is used for shortest path in graphs?|DFS|BFS|Dijkstra|Kruskal|c
+DSA|Which sorting is the fastest on average?|Bubble Sort|Selection Sort|Merge Sort|Insertion Sort|c
+DSA|Which data structure is used in recursion?|Queue|Binary Tree|Stack|Graph|c
+DBMS|Which language is used to create tables in SQL?|DML|DDL|DCL|TCL|b
+DBMS|Which key uniquely identifies a record in a table?|Primary Key|Foreign Key|Candidate Key|Super Key|a
+DBMS|Which normal form removes partial dependency?|1NF|2NF|3NF|BCNF|b
+DBMS|Which join returns only matching rows from both tables?|Left Join|Right Join|Inner Join|Full Join|c
+DBMS|What does ACID stand for in DBMS?|Atomicity Consistency Isolation Durability|Access Control ID|Advanced Control Isolation Data|None|a
+DBMS|Which SQL command retrieves data?|GET|PULL|SELECT|FETCH|c
+DBMS|Which operation is part of relational algebra?|JOIN|STACK|LOOP|PUSH|a
+PYTHON|Which keyword is used to define a function in Python?|func|define|def|function|c
+PYTHON|Which of the following is a mutable data type?|tuple|list|string|int|b
+PYTHON|Which operator is used for exponent in Python?|^|**|%%|//|b
+PYTHON|What is the output of print(type([]))?|set|dict|list|tuple|c
+PYTHON|Which loop is used to iterate over a sequence?|while|for|loop|repeat|b
+PYTHON|Which keyword is used to handle exceptions?|try|except|catch|finally|b
